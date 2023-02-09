@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Cory Bogert
 ### I'm from St. Louis, MO and I can be reached at bogert.cory@gmail.com
 I'm a recent App Academy graduate that is currently in the job search. I am on the verge of being a father which I am very excited about and love anything outside and hockey. 
-I’m currently working on a lululemon clone. It currently has several features including cart and reviews but trying to add more over the following weeks which can be found here https://lulumelon.onrender.com/ Would love any feedback!
+I’m currently working on a lululemon clone. It currently has several features including cart and reviews but trying to add more over the following weeks which can be found here https://lulumelon.onrender.com/ Would love any feedback! Some other recent projects I've worked on are https://firestarter.onrender.com/ and https://errorbnb.onrender.com/. FireStarter was an awesome project considering it was built in collaboration with 3 other great devs with a short timeframe.
 My current tech stack is JS, Python, React/Redux, Flask, CSS and HTML, and Sql. Really looking forward to diving into some Rust in the near future and possibly pick up Tailwind. Drop a follow on my Linkedin and I'll be sure to follow back! Thanks for looking at my profile.
 
 
